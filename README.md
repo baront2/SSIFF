@@ -1,2 +1,2 @@
 # SSIFF
-Partage de connaissances informatiques
+Partage des connaissances informatiques
